@@ -1,0 +1,164 @@
+{
+  "id": "98882911-9e4e-442a-a5bc-ea1f36279ccf",
+  "version": "2.0",
+  "name": "digitec Test",
+  "url": "https://www.digitec.ch",
+  "tests": [{
+    "id": "31d4cca2-9e62-4646-bab3-5610302aa775",
+    "name": "Untitled",
+    "commands": [{
+      "id": "335cd64a-9d18-4234-95cc-af2636beecb8",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8b80470d-7b9a-4285-9cef-f800ce2f14eb",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1016x697",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "23e8fef1-ecab-4b10-840e-52ddf470e2cc",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.ynuGiZK .yhzM06o",
+      "targets": [
+        ["css=.ynuGiZK .yhzM06o", "css:finder"],
+        ["xpath=//main[@id='pageContent']/div/div/div/section/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/de/daily-deal')])[2]", "xpath:href"],
+        ["xpath=//section/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "be6b9043-1d6a-4fa7-97db-5988e0ec7993",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.ynuGiZK .yhzM06o",
+      "targets": [
+        ["css=.ynuGiZK .yhzM06o", "css:finder"],
+        ["xpath=//main[@id='pageContent']/div/div/div/section/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/de/daily-deal')])[2]", "xpath:href"],
+        ["xpath=//section/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "55d8312f-8abe-4602-93f6-72932ce0dd84",
+      "comment": "",
+      "command": "click",
+      "target": "id=q",
+      "targets": [
+        ["id=q", "id"],
+        ["name=q", "name"],
+        ["css=#q", "css:finder"],
+        ["xpath=//input[@id='q']", "xpath:attributes"],
+        ["xpath=//div[@id='pageHead']/header/div[3]/form/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf8a2eca-1410-4406-b7f3-e3d842162e29",
+      "comment": "",
+      "command": "click",
+      "target": "css=.yVLsj8O6",
+      "targets": [
+        ["css=.yVLsj8O6", "css:finder"],
+        ["xpath=//div[@id='pageHead']/header/div[3]/form/div/section/ul/li", "xpath:idRelative"],
+        ["xpath=//li", "xpath:position"],
+        ["xpath=//li[contains(.,'ipad')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a0bb2d4e-129c-4589-8b2b-1d9ce374f5b9",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.yeHVutt:nth-child(3) > .yUjq5DY1",
+      "targets": [
+        ["css=.yeHVutt:nth-child(3) > .yUjq5DY1", "css:finder"],
+        ["xpath=(//button[@type='button'])[6]", "xpath:attributes"],
+        ["xpath=//div[@id='usermenu']/div[3]/button", "xpath:idRelative"],
+        ["xpath=//div[3]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9a013cad-1798-4ca1-9125-fdd31ee9ef81",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.yeHVutt:nth-child(3) > .yUjq5DY1",
+      "targets": [
+        ["css=.yeHVutt:nth-child(3) > .yUjq5DY1", "css:finder"],
+        ["xpath=(//button[@type='button'])[6]", "xpath:attributes"],
+        ["xpath=//div[@id='usermenu']/div[3]/button", "xpath:idRelative"],
+        ["xpath=//div[3]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d171ec22-f7c6-464d-8618-e2fa1072bfc2",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.yArygEf2:nth-child(3) > .yhoDN9z",
+      "targets": [
+        ["css=.yArygEf2:nth-child(3) > .yhoDN9z", "css:finder"],
+        ["xpath=//section[@id='productSection']/div[4]/article[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/de/s1/product/apple-ipad-pro-11-2024-m4-nur-wlan-11-256-gb-space-black-tablet-45556610')]", "xpath:href"],
+        ["xpath=//article[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "39193ce3-f1b4-4953-b599-ef2520cd4c55",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.yArygEf2:nth-child(3) > .yhoDN9z",
+      "targets": [
+        ["css=.yArygEf2:nth-child(3) > .yhoDN9z", "css:finder"],
+        ["xpath=//section[@id='productSection']/div[4]/article[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/de/s1/product/apple-ipad-pro-11-2024-m4-nur-wlan-11-256-gb-space-black-tablet-45556610')]", "xpath:href"],
+        ["xpath=//article[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "45825786-3940-4076-8014-73acfc801b85",
+      "comment": "",
+      "command": "click",
+      "target": "css=.yWuaTLS1 > strong",
+      "targets": [
+        ["css=.yWuaTLS1 > strong", "css:finder"],
+        ["xpath=//main[@id='pageContent']/h1/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'«ipad»')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "03111d17-7f54-4f7e-992c-2029bced07cd",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.yWuaTLS1 > strong",
+      "targets": [],
+      "value": "iPad"
+    }, {
+      "id": "d11462d4-26bf-4277-a9b9-505830f65358",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.yWuaTLS1 > strong",
+      "targets": [
+        ["css=.yWuaTLS1 > strong", "css:finder"],
+        ["xpath=//main[@id='pageContent']/h1/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'«ipad»')]", "xpath:innerText"]
+      ],
+      "value": "«ipad»"
+    }]
+  }],
+  "suites": [{
+    "id": "8740865d-4437-47da-9a23-be4ec1b664e7",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["31d4cca2-9e62-4646-bab3-5610302aa775"]
+  }],
+  "urls": ["https://www.digitec.ch/"],
+  "plugins": []
+}
