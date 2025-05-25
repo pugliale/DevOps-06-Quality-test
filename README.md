@@ -87,9 +87,9 @@ Selenium eignet sich besonders für **Integrationstests**, die das Gesamtsystem 
 2. Automatisch HTML-Report erstellt  
 3. Öffnung der HTML-Auswertung im Browser
 
-<img src="Images/Bild1.png" width="600">
-<img src="Images/Bild2.png" width="600">
-<img src="Images/Bild3.png" width="600">
+<img src="images/Bild1.png" width="600">
+<img src="images/Bild2.png" width="600">
+<img src="images/Bild3.png" width="600">
 
 ---
 
@@ -103,13 +103,13 @@ Selenium eignet sich besonders für **Integrationstests**, die das Gesamtsystem 
 npx eslint .
 ```
 
-<img src="Images/Bild4.png" width="600">
+<img src="images/Bild4.png" width="600">
 
 4. Fehler gezielt eingebaut → ESLint erkennt und meldet sie  
 5. Fehlermeldungen in VS Code hervorgehoben
 
-<img src="Images/Bild5.png" width="600">
-<img src="Images/Bild6.png" width="600">
+<img src="images/Bild5.png" width="600">
+<img src="images/Bild6.png" width="600">
 
 ---
 
@@ -128,16 +128,16 @@ npx eslint .
 
 3. Dashboard geöffnet und Bewertung geprüft
 
-<img src="Images/Bild7.png" width="600">
-<img src="Images/Bild8.png" width="600">
-<img src="Images/Bild9.png" width="600">
-<img src="Images/Bild10.png" width="600">
+<img src="images/Bild7.png" width="600">
+<img src="images/Bild8.png" width="600">
+<img src="images/Bild9.png" width="600">
+<img src="images/Bild10.png" width="600">
 
 4. Fehlerhafte Version gezielt gesucht und analysiert  
 5. Detaillierte Fehleranzeige auf Klassenebene
 
-<img src="Images/Bild11.png" width="600">
-<img src="Images/Bild12.png" width="600">
+<img src="images/Bild11.png" width="600">
+<img src="images/Bild12.png" width="600">
 
 ---
 
@@ -156,8 +156,8 @@ npx sonar-scanner \
 
 3. Ergebnisanzeige im Webinterface
 
-<img src="Images/Bild13.png" width="600">
-<img src="Images/Bild14.png" width="600">
+<img src="images/Bild13.png" width="600">
+<img src="images/Bild14.png" width="600">
 
 ---
 
@@ -169,11 +169,11 @@ npx sonar-scanner \
 4. Prüfung mit `verifyText` und später `assertText`  
 5. Demonstration von Test-Fails bei falscher Schreibweise
 
-<img src="Images/Bild15.png" width="600">
-<img src="Images/Bild16.png" width="600">
-<img src="Images/Bild17.png" width="600">
-<img src="Images/Bild18.png" width="600">
-<img src="Images/Bild19.png" width="600">
+<img src="images/Bild15.png" width="600">
+<img src="images/Bild16.png" width="600">
+<img src="images/Bild17.png" width="600">
+<img src="images/Bild18.png" width="600">
+<img src="images/Bild19.png" width="600">
 
 ---
 
